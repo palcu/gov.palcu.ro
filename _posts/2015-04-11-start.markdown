@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Start"
+date:   2015-04-11 15:52:16
+---
+
+După ce mi-am dat demisia de la Hootsuite, am primit oferta de a administra portalul de date deschise al Guvernului României [data.gov.ro](http://data.gov.ro). După mai multe discuții, am acceptat acest lucru și am devenit consilier în Departamentul pentru Servicii Online și Design al secretarului de stat Radu Puchiu. Sună super formal, dar scopul meu e să fac treabă. Dat fiind că sunt plătit din bani publici acum, m-am gândit să țin un jurnal cu ceea ce se va întâmpla în guvern.

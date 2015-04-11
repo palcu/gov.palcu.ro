@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: Blogul lui Alex Palcuie la Guvernul României
 markdown: redcarpet
-pygments: true
+highlighter: pygments
+twitter_username: AlexPalcuie
+github_username:  palcu
