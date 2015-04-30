@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Întâlnire COMSODE"
+date:   2015-04-20 20:07:16
+---
+
+Pe 1 aprilie am fost la o întâlnire a guvernului cu grupul [Components Supporting the Open Data Exploitation](http://www.comsode.eu/), în care aceștia ne-au prezentat proiectul lor [Open Data Node](https://github.com/OpenDataNode/). Ei au pus laolaltă mai multe unelte open source pentru a face mai ușor deploymentul de portaluri Open Data pentru administrații locale. Apoi, ei mai pot face un nod central, care poate trage date de la cele locale și le poate arhiva sau expune.
+
+Proiectul mi s-a părut interesant pentru că din ce am văzut codul este destul de modular scris, fiecare parte din sistem fiind o instanță de CKAN custom sau o instanță de Virtuoso de exemplu. Problema cea mai mare a proiectului este funding-ul, care se termină în 2016.
