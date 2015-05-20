@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Migrare terminată"
-date:   2015-04-30 17:25:16
+date:   2015-05-20 17:25:16
 ---
 
 [Website-ul](http://data.gov.ro) a fost migrat fără a pierde date și fără downtime la versiunea 2.3 a CKAN. Am activat și pluginul `datapusher` care actualizează automat în `DataStore` (locul de unde API-ul preia date) atunci când un set de date este urcat în `FileStore` (locul unde se urcă propriu-zis fișierele). Următorii pași sunt:
