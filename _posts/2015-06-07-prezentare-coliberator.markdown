@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prezentare Coliberator"
-date:   2015-06-04 16:21:30
+date:   2015-06-07 21:20:30
 ---
 
 Astăzi am ținut o prezentare la conferința [Coliberator](http://coliberator.ro/2015/) organizată de Fundația Ceata în care am vorbit despre ce am făcut în ultimele 2 luni la [data.gov.ro](http://data.gov.ro/) și ce unelte folosim.
