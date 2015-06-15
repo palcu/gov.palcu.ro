@@ -8,6 +8,6 @@ Astăzi am ținut o prezentare la conferința [Coliberator](http://coliberator.r
 
 ![Eu la coliberator](/assets/eu-la-coliberator-mic.png)
 
-_Picture taken by Andrei Nicoara_
+_Poză făcută de Andrei Nicoară_
 
 <script async class="speakerdeck-embed" data-id="b2a6e25ee0d04b29a5ea9912fb9e7f96" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
