@@ -1,0 +1,4 @@
+git add .
+git commit -am 'Add new article'
+git push
+open "http://gov.palcu.ro"

@@ -3,3 +3,5 @@ markdown: redcarpet
 highlighter: pygments
 twitter_username: AlexPalcuie
 github_username:  palcu
+gems:
+  - jekyll-feed
