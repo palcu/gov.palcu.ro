@@ -11,7 +11,7 @@ d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js =
 d.createElement(s); js.id = id;  js.src =
 "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
 fjs.parentNode.insertBefore(js, fjs);}(document, 'script',
-'facebook-jssdk'));</script><div class="fb-post"
+'facebook-jssdk'));</script><div style="margin: 0 auto; width: 500px" class="fb-post"
 data-href="https://www.facebook.com/media/set/?set=a.893251714096563.1073741833.719061008182302&amp;type=3"
 data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote
 cite="https://www.facebook.com/media/set/?set=a.893251714096563.1073741833.719061008182302&amp;type=3"><p>&#xce;n
