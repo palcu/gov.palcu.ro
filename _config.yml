@@ -1,7 +1,8 @@
 name: Blogul lui Alex Palcuie la Guvernul României
-markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 twitter_username: AlexPalcuie
 github_username:  palcu
 gems:
+  - jekyll-paginate
+  - jekyll-gist
   - jekyll-feed
