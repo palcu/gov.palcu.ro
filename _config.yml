@@ -6,3 +6,4 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-sitemap
