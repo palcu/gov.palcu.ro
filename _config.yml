@@ -3,7 +3,8 @@ highlighter: rouge
 twitter_username: AlexPalcuie
 github_username:  palcu
 gems:
-  - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
   - jekyll-sitemap
