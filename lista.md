@@ -15,6 +15,7 @@ Proiecte care folosesc date deschise:
 * [http://opendata.rosedu.org](http://opendata.rosedu.org)
 * [https://termene.ro/](https://termene.ro/)
 * [https://itunes.apple.com/us/app/romanian-railways/id1099755336?mt=8](https://itunes.apple.com/us/app/romanian-railways/id1099755336?mt=8)
+* [http://openapi.ro/](http://openapi.ro/)
 
 Articole:
 
