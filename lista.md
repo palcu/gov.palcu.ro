@@ -14,6 +14,7 @@ Proiecte care folosesc date deschise:
 * [http://cfr.webgis.ro](http://cfr.webgis.ro)
 * [http://opendata.rosedu.org](http://opendata.rosedu.org)
 * [https://termene.ro/](https://termene.ro/)
+* [https://itunes.apple.com/us/app/romanian-railways/id1099755336?mt=8](https://itunes.apple.com/us/app/romanian-railways/id1099755336?mt=8)
 
 Articole:
 
