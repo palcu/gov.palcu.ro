@@ -27,6 +27,7 @@ Articole:
 * [http://www.cdut.ro/national-mapping-brief-01](http://www.cdut.ro/national-mapping-brief-01)
 * [https://arnoldplaton.wordpress.com/2015/05/30/ong-uri-arhiectura-si-urbanism/](https://arnoldplaton.wordpress.com/2015/05/30/ong-uri-arhiectura-si-urbanism/)
 * [http://docere.ro/explorarea-si-analiza-datelor-partea-i/](http://docere.ro/explorarea-si-analiza-datelor-partea-i/)
+* [http://www.hotnews.ro/stiri-esential-20969938-initiativa-romania-hexi-pharma-firma-acuzata-vanzarea-dezinfectanti-diluati-sute-spitale-din-romania-avut-20-contracte-spitalul-arsi-2015-anul-tragediei-din-colectiv.htm](http://www.hotnews.ro/stiri-esential-20969938-initiativa-romania-hexi-pharma-firma-acuzata-vanzarea-dezinfectanti-diluati-sute-spitale-din-romania-avut-20-contracte-spitalul-arsi-2015-anul-tragediei-din-colectiv.htm)
 
 Cine mai preia datele:
 
