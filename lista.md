@@ -28,6 +28,8 @@ Articole:
 * [https://arnoldplaton.wordpress.com/2015/05/30/ong-uri-arhiectura-si-urbanism/](https://arnoldplaton.wordpress.com/2015/05/30/ong-uri-arhiectura-si-urbanism/)
 * [http://docere.ro/explorarea-si-analiza-datelor-partea-i/](http://docere.ro/explorarea-si-analiza-datelor-partea-i/)
 * [http://www.hotnews.ro/stiri-esential-20969938-initiativa-romania-hexi-pharma-firma-acuzata-vanzarea-dezinfectanti-diluati-sute-spitale-din-romania-avut-20-contracte-spitalul-arsi-2015-anul-tragediei-din-colectiv.htm](http://www.hotnews.ro/stiri-esential-20969938-initiativa-romania-hexi-pharma-firma-acuzata-vanzarea-dezinfectanti-diluati-sute-spitale-din-romania-avut-20-contracte-spitalul-arsi-2015-anul-tragediei-din-colectiv.htm)
+* [http://www.digi24.ro/Stiri/Digi24/Actualitate/Opinii/Cum+poti+sa+influentezi+cheltuirea+banilor+publici+mai+simplu+ca](http://www.digi24.ro/Stiri/Digi24/Actualitate/Opinii/Cum+poti+sa+influentezi+cheltuirea+banilor+publici+mai+simplu+ca)
+* [http://initiativaromania.ro/hotnews-analiza-initiativa-romania-hexi-pharma/](http://initiativaromania.ro/hotnews-analiza-initiativa-romania-hexi-pharma/)
 
 Cine mai preia datele:
 
