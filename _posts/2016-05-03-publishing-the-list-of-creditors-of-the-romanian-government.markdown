@@ -7,4 +7,6 @@ Today ANAF, the Romanian IRS, is going to publish the list of the creditors who 
 
 **Live Blogging**
 
-7:30am - I arrive in an Uber at the office. Nice driver, we talked about the sharing economy and how will ratings affect drivers and customers.
+07:30am - I arrive in an Uber at the office. Nice driver, we talked about the sharing economy and how will ratings affect drivers and customers.
+
+08:41am - This has been getting [lots of press coverage](https://twitter.com/search?f=tweets&vertical=default&q=lista%20datornicilor&src=typd) early in the morning. We are still waiting for the ANAF president to sign the release of the data.
