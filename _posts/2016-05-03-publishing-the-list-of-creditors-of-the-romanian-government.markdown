@@ -16,3 +16,9 @@ Today ANAF, the Romanian IRS, is going to publish the list of the creditors who 
 11:27 - Because news always comes from TV, [we've found out](http://www.digi24.ro/Stiri/Digi24/Economie/Stiri/LISTA+DATORII+ANAF+AMANATA) that they are postponing showing the lists for people. We still don't have a final decision for companies.
 
 15:23 - I have received the [files](https://data.gov.ro/dataset/datoriile-catre-bugetul-de-stat). However, they are only a small part of the entire dataset that should have been released. I was expecting for something around ~300MB, but these are only ~2MB so any server can keep up with them. Maybe in the next few days there will be some true scaling problems.
+
+15:40 - Got 300 users and we have 30% load
+
+15:50 - Now 500 users and 70% load. Activating Redis.
+
+16:11 - 600 users in the last 60 seconds and 25% load. Caching is great. And still not using our CDN.
