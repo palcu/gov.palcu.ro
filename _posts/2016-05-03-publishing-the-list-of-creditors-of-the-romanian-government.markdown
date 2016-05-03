@@ -26,3 +26,5 @@ Today ANAF, the Romanian IRS, is going to publish the list of the creditors who 
 17:17 - 1.200 uniques in the last minute, with a 60% load. The naive implementation of Redis was not dumping any keys and it was slowly eating my whole RAM. I've activated expiring keys after I flushed the whole database and now everything looks normal.
 
 17:48. - Well, I tried to set [some nifty](http://redis.io/topics/lru-cache) things in Redis. However, the load went in 500%. I reverted back after some 504 errors. Just to sleep well, I've set [this option](https://github.com/ckan/ckan/blob/c3b1a37a3ecf8703035cf35235b6e6e5d2ebea39/ckan/config/middleware.py#L483) to `True`. It will make absolutely all the pages cachable (_nifty hack_) and won't update them afterwards. This is will stop updates on the websites but who needs modifying something in the night.
+
+19:59 - Left the building to eat. Arrived home, however the website loads slowly. Freaking memory leaks. The perks of working for the government is no remote SSH access. So, I'm going back to Victoria's Palace.
