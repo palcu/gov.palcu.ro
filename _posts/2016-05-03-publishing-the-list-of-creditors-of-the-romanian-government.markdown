@@ -21,4 +21,4 @@ Today ANAF, the Romanian IRS, is going to publish the list of the creditors who 
 
 15:50 - Now 500 users and 70% load. Activating Redis.
 
-16:11 - 600 users in the last 60 seconds and 25% load. Caching is great. And still not using our CDN.
+16:11 - 600 users in the last 60 seconds and 25% load. Caching is great. And still not using our CDN. Oh, and we are doing 40MB/s on the network.
