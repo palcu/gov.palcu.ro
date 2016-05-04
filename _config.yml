@@ -2,6 +2,7 @@ name: Blogul lui Alex Palcuie la Guvernul României
 highlighter: rouge
 twitter_username: AlexPalcuie
 github_username:  palcu
+timezone: Europe/Bucharest
 gems:
   - jekyll-gist
   - jekyll-feed
