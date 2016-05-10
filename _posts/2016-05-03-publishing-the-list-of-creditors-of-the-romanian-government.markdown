@@ -36,3 +36,17 @@ Today ANAF, the Romanian IRS, is going to publish the list of the creditors who 
 # Day 2
 
 07:30 - Woke up to update the CSVs because a column in them was wrong. I hate mornings like these.
+
+# Day 6
+
+17:00 - I learn that a new dataset will be published tomorrow.
+
+# Day 7
+
+11:00 - The dataset is still in works.
+
+18:00 - I am called at the office to publish the new dataset.
+
+21:00 - Still waiting for the final go.
+
+22:00 - The dataset is published.
