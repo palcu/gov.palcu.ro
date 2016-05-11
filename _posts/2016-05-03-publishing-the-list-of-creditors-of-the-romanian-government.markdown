@@ -58,3 +58,10 @@ Today ANAF, the Romanian IRS, is going to publish the list of the creditors who 
 12:00 - We've decided to take down Redis just to see how well it scales. The server is now in 180% load and the average response time is 0.8s. However, lots of people are querying it using the API.
 
 14:40 - In the Cloudflare dashboard I see over 2TB of data served and over 50k requests to the PDF in the last 12h. Not bad for a free service. Kudos to them for building such a great product.
+
+17:00 - Went to the office again because for some reason the 50MB CSV was not fully indexed in the database. I found out that we had 2 indexer actvated (one old and one new), disabled the old one and reindexed the full resource.
+
+17:30 - I've disabled offloading the PDF to Cloudflare and we're now serving everything inhouse. Cloudflare served us 3.27TB and 78k requests.
+
+![cloudflare graph](/assets/cloudflare_graph.png)
+![cloudflare bandwidth](/assets/cloudflare_bandwidth.png)

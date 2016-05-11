@@ -163,3 +163,8 @@ a:visited { color: #a0a; }
   margin-left: 20px;
   font-style: italic;
 }
+
+.post img {
+  max-width: 42em;
+  height: auto;
+}

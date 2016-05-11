@@ -3,6 +3,6 @@
 # http://stackoverflow.com/questions/25176674/run-process-when-string-in-stdout-is-matched/25177206#25177206
 
 (bundle exec jekyll serve) | while read line; do
-    [[ $line =~ "Server running" ]] && open http://gov.local.palcu.ro:4000
+    [[ $line =~ "Server running" ]] && open http://gov.local.palcu.ro:4005
     echo $line
 done
