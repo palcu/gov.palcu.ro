@@ -50,3 +50,11 @@ Today ANAF, the Romanian IRS, is going to publish the list of the creditors who 
 21:00 - Still waiting for the final go.
 
 22:00 - The dataset is published.
+
+23:30 - After some hours of monitoring, we've decided to go home. The best decision was to serve the 100MB PDF from the Cloudflare CDN.
+
+# Day 8
+
+12:00 - We've decided to take down Redis just to see how well it scales. The server is now in 180% load and the average response time is 0.8s. However, lots of people are querying it using the API.
+
+14:40 - In the Cloudflare dashboard I see over 2TB of data served and over 50k requests to the PDF in the last 12h. Not bad for a free service. Kudos to them for building such a great product.
