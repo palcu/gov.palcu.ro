@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cele mai interesante seturi de date
-permalink: lista
+permalink: seturi-de-date
 date: 2016-04-23 17:35:11
 ---
 
