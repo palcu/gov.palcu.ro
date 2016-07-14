@@ -1,0 +1,13 @@
+---
+title: Ultima zi
+layout: post
+---
+
+Ziua de 7 iulie 2016 a fost ultima mea zi în care am lucrat la data.gov.ro. Câteva din lucrurile din ultimele zile pe care le-am făcut:
+
+* update la ultima versiune de CKAN (2.5.3) și actualizarea extensiilor ca să suporte asta.
+* instanța de CKAN a fost mutată de pe serverul vechi pe 2 servere noi și puternice. Unul dintre ele ține partea de servire a paginilor web (nginx + Apache), iar celălalt ține baza de date și motorul de căutare. CKAN a fost reconfigurat de la zero pe acestea.
+* posibilitatea de a ridica un al doilea nod care să servească și el paginile web. Aplicația va face load balancing între cele două noduri, iar ambele vor accesa baza de date de pe celălalt server.
+* am pregătit un alt student care va prelua sistemul și îl va gestiona în continuare.
+
+Într-un fel sunt dezamăgit că nu am realizat tot ce mi-am dorit, dar sper ca Răzvan să continue tot ce am făcut eu. Și cine știe, poate acum cu [noul CIO](http://economie.hotnews.ro/stiri-telecom-21139401-video-cum-vrea-guvernul-ciolos-elimine-lipsa-coerenta-investitiile-situatia-captivitate-care-afla-acum-unele-institutii-contractele-incheiate.htm) lucrurile se pot schimba în tot guvernul iar software-ul liber să fie din ce în ce mai folosit.
