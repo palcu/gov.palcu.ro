@@ -56,10 +56,10 @@ Today ANAF, the Romanian IRS, is going to publish the list of the creditors who 
 
 Day 1
 
-18:12 - 726,000 requests + 23,850 users
-19:15 - 1,020,000 req + 34,261 users
-20:18 - 1,919,301 req + 76,000 users
+* 18:12 - 726,000 requests, 23,850 users
+* 19:15 - 1,020,000 reqs, 34,261 users
+* 20:18 - 1,919,301 reqs, 76,000 users
 
 Day 2
 
-17:13 - 14,319,183 req + 514,403 users
+* 17:13 - 14,319,183 reqs, 514,403 users
